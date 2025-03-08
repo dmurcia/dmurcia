@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Ocampo</h1>
 <h3 align="center">A passionate frontend developer from Costa Rica</h3>
 
-- 🔭 I’m currently working on **Algebra Nation**
+- 🔭 I’m currently working on **Blankfactor**
 
-- 🌱 I’m currently learning **Vuejs, React, Typescript**
+- 🌱 I’m currently learning **React, Typescript**
 
 - 💬 Ask me about **Vanilla Javascript**
 
